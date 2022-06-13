@@ -1,0 +1,8 @@
+.outer-search{
+    display: flex;
+    margin-bottom: 2%;
+}
+
+.inner-search{    
+    margin: 0 auto;    
+}

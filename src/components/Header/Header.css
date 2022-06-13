@@ -1,0 +1,14 @@
+.Header{
+    background-color: #c20324;
+    color: white;
+    text-align: center;
+    height: 100px;
+    font-size: 2rem;
+    font-weight: 600;
+    display: flex;
+}
+
+.Header p{
+    margin-left: 10px;
+    margin-top: 25px;
+}
